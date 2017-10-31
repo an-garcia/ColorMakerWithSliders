@@ -1,7 +1,7 @@
 # ColorMakerWithSliders
 
 
-![Scheme](/screenshots/SimulatorScreenShot-iPhone8Plus-2017-10-29at21.33.44.png)
+![Scheme](/screenshots/SimulatorScreenShot-iPhone8Plus-2017-10-31at16.09.49.png)
 
 
 ColorMakerWithSliders is an iOS sample application that changes colors.
